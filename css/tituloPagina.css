@@ -1,0 +1,17 @@
+.titulo__pagina{
+    text-align: center;
+}
+
+.conteudo{
+    background-color: rgb(198, 230, 166);
+    height: 1500px;
+}
+
+.titulo{
+    font-size: large;
+    font-weight: bold;
+    padding-top: 20px;
+    font-size: 3em;
+    padding-bottom: 0.5em;
+    margin-bottom: 0.5em;
+}

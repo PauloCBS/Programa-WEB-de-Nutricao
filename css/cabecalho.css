@@ -1,0 +1,34 @@
+.cabecalho{
+
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+   
+}
+
+.borda {
+
+    
+
+}
+
+.cabecalho__imagem{
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+
+}
+
+.cabecalho__menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100%;
+    text-decoration: none;
+}
+
+.cabecalho__item{
+    text-decoration: none;
+    color: black;
+}
